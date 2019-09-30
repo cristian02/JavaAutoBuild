@@ -18,6 +18,7 @@ public class JavaAutoBuild {
         // TODO code application logic here
         System.out.println("This is a test");
         System.out.println("Hello"); 
+        System.out.println("Docker test");
     }
     
 }
